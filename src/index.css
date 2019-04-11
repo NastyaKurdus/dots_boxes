@@ -1,0 +1,23 @@
+html, body {
+  overflow: hidden;
+  height: 100%;
+}
+input {
+  padding: 5px;
+  width: 120px;
+  margin-top:10px;
+}
+.svg_container{
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  vertical-align: middle;
+  overflow: hidden;
+}
+.aliens-go-home-canvas {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
